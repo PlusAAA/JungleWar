@@ -1,0 +1,44 @@
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.csprojResolveAssemblyReference.cache
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\游戏服务器端.exe.config
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\游戏服务器端.exe
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\游戏服务器端.pdb
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\Common.dll
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\MySql.Data.dll
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\Common.pdb
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\MySql.Data.xml
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.exe
+E:\VS Workspace\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.pdb
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\素材、源码工程、PPT\素材、源码工程、PPT\《丛林战争》服务器端\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\游戏服务器端.exe.config
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\素材、源码工程、PPT\素材、源码工程、PPT\《丛林战争》服务器端\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\游戏服务器端.exe
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\素材、源码工程、PPT\素材、源码工程、PPT\《丛林战争》服务器端\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\游戏服务器端.pdb
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\素材、源码工程、PPT\素材、源码工程、PPT\《丛林战争》服务器端\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\Common.dll
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\素材、源码工程、PPT\素材、源码工程、PPT\《丛林战争》服务器端\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\Common.pdb
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\素材、源码工程、PPT\素材、源码工程、PPT\《丛林战争》服务器端\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.csproj.AssemblyReference.cache
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\素材、源码工程、PPT\素材、源码工程、PPT\《丛林战争》服务器端\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.csproj.SuggestedBindingRedirects.cache
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\素材、源码工程、PPT\素材、源码工程、PPT\《丛林战争》服务器端\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.csproj.CoreCompileInputs.cache
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\素材、源码工程、PPT\素材、源码工程、PPT\《丛林战争》服务器端\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.csproj.CopyComplete
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\素材、源码工程、PPT\素材、源码工程、PPT\《丛林战争》服务器端\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.exe
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\素材、源码工程、PPT\素材、源码工程、PPT\《丛林战争》服务器端\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.pdb
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\素材、源码工程、PPT\素材、源码工程、PPT\《丛林战争》服务器端\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\MySql.Data.dll
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\游戏服务器端.exe.config
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\游戏服务器端.exe
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\游戏服务器端.pdb
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\Common.dll
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\bin\Debug\Common.pdb
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.csproj.AssemblyReference.cache
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.csproj.SuggestedBindingRedirects.cache
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.csproj.CoreCompileInputs.cache
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.csproj.CopyComplete
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.exe
+D:\Unity\Study\93.《丛林战争》直接利用SocketTCP开发网络游戏\直接利用Socket TCP开发网络游戏 - CSharp（Unity5.6）\游戏服务器端\obj\Debug\游戏服务器端.pdb
+D:\Unity\Study\Jungle\Jungle Server\游戏服务器端\bin\Debug\游戏服务器端.exe.config
+D:\Unity\Study\Jungle\Jungle Server\游戏服务器端\bin\Debug\游戏服务器端.exe
+D:\Unity\Study\Jungle\Jungle Server\游戏服务器端\bin\Debug\游戏服务器端.pdb
+D:\Unity\Study\Jungle\Jungle Server\游戏服务器端\bin\Debug\Common.dll
+D:\Unity\Study\Jungle\Jungle Server\游戏服务器端\bin\Debug\Common.pdb
+D:\Unity\Study\Jungle\Jungle Server\游戏服务器端\obj\Debug\游戏服务器端.csproj.AssemblyReference.cache
+D:\Unity\Study\Jungle\Jungle Server\游戏服务器端\obj\Debug\游戏服务器端.csproj.SuggestedBindingRedirects.cache
+D:\Unity\Study\Jungle\Jungle Server\游戏服务器端\obj\Debug\游戏服务器端.csproj.CoreCompileInputs.cache
+D:\Unity\Study\Jungle\Jungle Server\游戏服务器端\obj\Debug\游戏服务器端.csproj.CopyComplete
+D:\Unity\Study\Jungle\Jungle Server\游戏服务器端\obj\Debug\游戏服务器端.exe
+D:\Unity\Study\Jungle\Jungle Server\游戏服务器端\obj\Debug\游戏服务器端.pdb
